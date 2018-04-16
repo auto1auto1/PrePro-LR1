@@ -1,0 +1,18 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at : 2018-04-15 11:51:43
+TruClient Replay for LoadRunner 12.53.0, build 1203. OS: Windows 10, Browser: Chromium, initialized on 2018/04/15 at 11:51:37 (0000.000s)
+t=00006401ms: ** 1: Navigate to "http://10.10.8.135:8080/BOE/BI" ** started    [MsgId: MMSG-205180]
+t=00007595ms: ** 1: Navigate to http://10.10.8.135:8080/BOE/BI ** successfully completed with end event 'Document Loaded'    [MsgId: MMSG-205180]
+t=00008097ms: ** 4: Type administrator in User Name textbox ** started    [MsgId: MMSG-205180]
+t=00013467ms: ** 4: Type administrator in User Name textbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+t=00013972ms: ** 8: Type ********** in Password passwordbox ** started    [MsgId: MMSG-205180]
+t=00017934ms: ** 8: Type ********** in Password passwordbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+t=00018440ms: ** 9: Click on Log On button ** started    [MsgId: MMSG-205180]
+t=00019620ms: ** 9: Click on Log On button ** successfully completed with end event 'Step network completed'    [MsgId: MMSG-205180]
+Warning: The "vuser_init" section contains step(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations.
+Running Vuser...
+Starting iteration 1.
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
