@@ -10,7 +10,7 @@ Library_Wait()
 	}
 	truclient_step("2", "Function wait10", "snapshot=Wait_2.inf");
 	{
-		truclient_step("2.1", "Wait 10 seconds", "snapshot=Wait_2.1.inf");
+		truclient_step("2.1", "Wait 9 seconds", "snapshot=Wait_2.1.inf");
 	}
 
 	return 0;

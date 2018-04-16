@@ -61,7 +61,7 @@ Action=1
 Lib-View=1
 vuser_end=1
 [TransactionsOrder]
-Order="BI-Login__*delimiter*__BI Events Report-Generate 3 Days Report__*delimiter*__BI Events Report-Events Report Tab__*delimiter*__BI Events Report-Documents Tab__*delimiter*__BI Events Repor-Events Report View"
+Order="BI-Login__*delimiter*__BI Events Report-Documents Tab__*delimiter*__BI Events Report-Events Report Tab__*delimiter*__BI Events Repor-Events Report View__*delimiter*__BI Events Report-Generate 3 Days Report"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -69,7 +69,7 @@ LastReplayedRunName=result1
 ActiveRunName=
 [Transactions]
 BI-Login=
-"BI Events Report-Generate 3 Days Report"=
-"BI Events Report-Events Report Tab"=
 "BI Events Report-Documents Tab"=
+"BI Events Report-Events Report Tab"=
 "BI Events Repor-Events Report View"=
+"BI Events Report-Generate 3 Days Report"=
